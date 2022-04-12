@@ -1,0 +1,54 @@
+body {
+    display: flex;
+    font-family: 'Roboto';
+    max-width: 80%;
+    margin: auto;
+}
+
+h1, h2 {
+    color:#006a53;
+}
+
+main {
+    width: 50%;
+    margin-right: -15%;
+}
+
+aside {
+    width: 50%;
+}
+
+label {
+    font-weight: 900;
+}
+
+input {
+    margin-bottom: 20px;
+}
+
+.button {
+    border: none;
+    color: white;
+    padding: 10px;
+    background-color: #006a53;
+}
+
+.palier-rouge {
+    color:  red;
+}
+
+.palier-orange {
+    color:  orangered;
+}
+
+.palier-vert {
+    color:  green;
+}
+
+.palier-bleu {
+    color:  blue;
+}
+
+p {
+    margin: 0;
+}
